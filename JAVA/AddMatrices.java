@@ -38,7 +38,7 @@ public class AddMatrices{
             {
                 System.out.print(y+" ");
             }
-            System.out.println();
+            out.println();
         }
     }
 }
